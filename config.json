@@ -1,5 +1,8 @@
 {
     "GenIpAddr":"TZNxgCIjjMXFWkfrwMmOekYADpkGEvFtLaBl/Tccfv+1jFmhtR1NAYrnpATUpbVz",
     "QABIpAddr":"zetV6uTi1tcJfg8rJ9FrptJPIsaj2tWJi/XJcq1fb/S7ThELGIo2p8xCG+fMQM14",
-    "WITHDRAWALIpAddr":"h9Au/m8Mth8fb1fI7Rhp/9ayhc501EWhRPvkRKJwthcfdKFWSAqCOQ+LxJ+mmqCO"
+    "WITHDRAWALIpAddr":"h9Au/m8Mth8fb1fI7Rhp/9ayhc501EWhRPvkRKJwthcfdKFWSAqCOQ+LxJ+mmqCO",
+    "posDesktopMetaData": "1.2.1",
+    "merchantDesktoppMetaData": "1.2.1",
+    "posMobilepMetaData": "1.2.1"
 }
