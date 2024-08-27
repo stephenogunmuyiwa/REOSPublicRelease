@@ -2,7 +2,7 @@
     "GenIpAddr":"TZNxgCIjjMXFWkfrwMmOekYADpkGEvFtLaBl/Tccfv+1jFmhtR1NAYrnpATUpbVz",
     "QABIpAddr":"zetV6uTi1tcJfg8rJ9FrptJPIsaj2tWJi/XJcq1fb/S7ThELGIo2p8xCG+fMQM14",
     "WITHDRAWALIpAddr":"h9Au/m8Mth8fb1fI7Rhp/9ayhc501EWhRPvkRKJwthcfdKFWSAqCOQ+LxJ+mmqCO",
-    "posDesktopMetaData": {"version":"1.2.1","url":""},
-    "merchantDesktopMetaData": {"version":"1.2.1","url":""},
-    "posMobilepMetaData": {"version":"1.2.1","url":""}
+    "posDesktop": {"version":"1.2.1","url":""},
+    "merchantDesktop": {"version":"1.2.1","url":""},
+    "posMobile": {"version":"1.2.1","url":""}
 }
