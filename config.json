@@ -2,7 +2,7 @@
     "GenIpAddr":"TZNxgCIjjMXFWkfrwMmOekYADpkGEvFtLaBl/Tccfv+1jFmhtR1NAYrnpATUpbVz",
     "QABIpAddr":"zetV6uTi1tcJfg8rJ9FrptJPIsaj2tWJi/XJcq1fb/S7ThELGIo2p8xCG+fMQM14",
     "WITHDRAWALIpAddr":"h9Au/m8Mth8fb1fI7Rhp/9ayhc501EWhRPvkRKJwthcfdKFWSAqCOQ+LxJ+mmqCO",
-    "posDesktop": {"version":"1.0.0","url":"https://github.com/stephenogunmuyiwa/REOSPublicRelease/releases/download/0.0.0-omega/dummy.zip"},
+    "posDesktop": {"version":"1.1.0","url":"https://github.com/stephenogunmuyiwa/REOSPublicRelease/releases/download/0.0.0-omega/dummy.zip"},
     "merchantDesktop": {"version":"1.2.1","url":""},
     "posMobile": {"version":"1.2.1","url":""}
 }
